@@ -31,10 +31,10 @@
   <a href="mailto:mariaeduardavileladebrito@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
      </a>
-    <a href="https://github.com/CaioYL10?tab=followers">
+  <a href="https://github.com/Mariabrito09">
         <img 
-            alt="Instagram" 
-            title="Me siga no instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-             />
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/CaioYL10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
 </p>
