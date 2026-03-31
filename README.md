@@ -36,8 +36,7 @@
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Mariabrito09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
 
-</div>
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
 
 </p>
