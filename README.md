@@ -18,7 +18,16 @@
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 ---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20eu%20sou%20a%20Maria%20Eduarda!&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
+</div>
 
+<div align="center">
+  <h3>Estudante de Desenvolvimento de Sistemas | Apaixonada por Tecnologia 💻✨</h3>
+  <p>Bem-vinda(o) ao meu GitHub!</p>
+</div>
+
+---
 ### 📫 Como me encontrar
 
 
