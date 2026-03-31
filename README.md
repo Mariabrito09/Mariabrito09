@@ -4,7 +4,7 @@
 <br>
 <br>
 
-👩‍💻 **Estudante de Tecnologia | Desenvolvedora em Formação**
+**`Desenvolvedora em formação`**
 
 
 ### 🚀 Sobre mim
