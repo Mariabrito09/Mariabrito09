@@ -3,7 +3,7 @@
 <br>
 <br>
     
-*`Desenvolvedora em formação`*
+**`Desenvolvedora em formação`**
 ### 🚀 Sobre mim
 
 - Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
