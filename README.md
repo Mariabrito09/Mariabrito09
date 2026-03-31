@@ -40,8 +40,8 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub da Maria Eduarda" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariabrito09&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub da Maria Eduarda" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariabrito09layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" height="150"/>
 </div>
         />
 
