@@ -2,9 +2,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=40&letterSpacing=0.1rem&duration=4000&pause=1000&color=800080&center=true&vCenter=true&random=true&width=600&lines=Maria+Eduarda+Vilela" alt="Typing SVG" /></a>
 <br>
 <div align="center">
-  <small>Estudante de Desenvolvimento de Sistemas</small>
+  <sub>Estudante de Desenvolvimento de Sistemas</sub>
     
-  <small>Bem-vinda(o) ao meu GitHub!✨</small>
+  <sub>Bem-vinda(o) ao meu GitHub!✨</sub>
 </div>
     
 ### 🚀 Sobre mim
