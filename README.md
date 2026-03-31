@@ -3,7 +3,7 @@
 <br>
 <div align="center">
   <small>Estudante de Desenvolvimento de Sistemas</small>
-  <p>Bem-vinda(o) ao meu GitHub!✨</p>
+  <small>Bem-vinda(o) ao meu GitHub!✨</small>
 </div>
     
 ### 🚀 Sobre mim
