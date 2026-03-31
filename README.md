@@ -35,14 +35,6 @@
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Mariabrito09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-
----
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariabrito09&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub da Maria Eduarda" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariabrito09layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" height="150"/>
-</div>
         />
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
